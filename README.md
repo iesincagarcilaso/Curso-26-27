@@ -12,6 +12,7 @@
 - [Lao Criado, Pedro](https://github.com/plaocriado) :octocat: `plaocriado`
 - [Lucena Pérez, Marcos](https://github.com/marcoslucenaa) :octocat: `marcoslucenaa`
 - [Pérez Logrono, Mateo](https://github.com/mateopl232) :octocat: `mateopl232`
+- [Quintero Rojas, Yeferson Emmanuel](https://github.com/yfq943) :octocat: `yfq943`
 
 
 ### 2º DAW
